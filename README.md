@@ -9,4 +9,5 @@ Headings were updated to follow the correct order, CSS was consolidated, and com
 
 ## The Horiseon Website
 
-![./assets/images/01-html-css-git-homework-demo.png]
+![Horiseon Website Screenshot](./assets/images/01-html-css-git-homework-demo.png)
+
