@@ -14,7 +14,7 @@ Headings were updated to follow the correct order, CSS was consolidated, and com
 
 ## Credits
 
-The HTML and CSS was provided by [Triology Education Services, a 2U, Inc. brand
+The HTML and CSS was provided by Triology Education Services, a 2U, Inc. brand
 
 ## License
 MIT License Copyright (c) 2020 Morgan Bailey
